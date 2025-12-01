@@ -36,4 +36,4 @@ Key Techniques: Log Poisoning (for RCE), Directory Traversal (../), and reading 
 
 Attack Chain Summary: Successfully demonstrated how LFI can be escalated to Remote Code Execution (RCE), establishing a direct functional link to Command Injection principles.
 
-Report Link: https://github.com/THM-Cybersecurity-Room-Reports/blob/main/PT1_Rooms/File_Inclusion_Analysis.md
+Report Link: https://github.com/dhruvdhama2006-cpu/THM-Cybersecurity-Room-Reports/blob/main/PT1_Rooms/File_Inclusion_Analysis.md
